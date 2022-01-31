@@ -2,4 +2,4 @@
 
 require 'functions.php';
 
-echo displayNameAsMarquee('Ollie');
+echo displayNameAsMarquee('Ollie Ritchie');
