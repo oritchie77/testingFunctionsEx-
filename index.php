@@ -1,5 +1,6 @@
 <?php
 
-require 'functions.php';
+require_once 'functions.php';
 
-echo displayNameAsMarquee('Ollie Ritchie');
+echo displayNameAsMarquee('Mango');
+
